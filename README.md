@@ -36,56 +36,48 @@ Atualmente, concentro minha atuação no desenvolvimento de soluções baseadas 
 
 <img 
     align="left" 
-    alt="Python"
-    title="Python para dados e IA" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python para Engenharia de Dados e IA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL para Bancos de Dados" 
+    alt="SQL" 
+    title="SQL para Modelagem e Processamento de Dados" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI para Business Intelligence"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="APIs rápidas com FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure para Deploy e Escalabilidade"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>
-<img 
-    align="left" 
-    alt="LangChain"
-    title="Frameworks de IA como LangChain" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/favicon.ico"
-/>
-<img 
-    align="left" 
     alt="Docker" 
-    title="Contêineres com Docker"
+    title="Contêineres e Orquestração com Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
@@ -93,46 +85,16 @@ Atualmente, concentro minha atuação no desenvolvimento de soluções baseadas 
 <img 
     align="left" 
     alt="Git" 
-    title="Versionamento com Git" 
+    title="Versionamento de Código com Git" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<br/>
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-### 📊 Estatísticas GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thiagolsmoraes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolsmoraes&theme=tokyonight&layout=compact&custom_title=Tecnologias+Usadas&langs_count=9" 
-  />
-</p>
+    align="left" 
+    alt="Linux" 
+    title="Ambientes Linux para Desenvolvimento e Deploy" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
