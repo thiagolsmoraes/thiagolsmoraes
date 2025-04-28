@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B0D3AE9&width=460&height=65&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++++Thiago+Moraes;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Especialista+em+Solu%C3%A7%C3%B5es+de+IA+e+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFF&width=800&height=65&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++++Thiago+Moraes;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Especialista+em+Atendimento+Digital)](https://git.io/typing-svg)
 
-Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e inteligência artificial. Atualmente, atuo como desenvolvedor de soluções em engenharia de dados e IA, transformando desafios complexos em soluções eficientes e escaláveis. Meu foco principal é análise e engenharia de dados, utilizando IA para potencializar ainda mais os resultados. Tenho experiência com tecnologias como Python, SQL, Power BI, Azure, FastAPI, LangChain, OpenAI APIs, TypeScript e muito mais. Estou sempre em busca de aprendizado contínuo e novos desafios que impulsionem a inovação.
+Olá! Sou Thiago Moraes, um engenheiro de sistemas com foco em criar soluções digitais que melhoram a forma como empresas se comunicam com seus clientes. 
+Com uma base sólida em Desenvolvimento de Sistemas e Análise de Dados, aplico tecnologias emergentes de IA para potencializar insights e impulsionar a tomada de decisões estratégicas.  
+Tenho experiência prática na criação de soluções escaláveis, construção de pipelines inteligentes, análise de indicadores e implementação de IA aplicada ao negócio.
+
+Atualmente, concentro minha atuação no desenvolvimento de soluções baseadas em machine learning, essencialmente aplicações de IA generativa.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagolsmoraes/">
@@ -8,6 +12,13 @@ Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e i
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://thiagomoraes.com.br">
+        <img 
+            alt="Meu Site" 
+            title="Visite meu portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-000?style=for-the-badge&logo=web&logoColor=white"
         />
     </a>
     <a href="https://github.com/thiagolsmoraes">
@@ -21,60 +32,60 @@ Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e i
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Especialidades
 
 <img 
     align="left" 
     alt="Python"
-    title="Python" 
+    title="Python para dados e IA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="SQL"
+    title="SQL para Bancos de Dados" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Power BI"
-    title="Power BI"
+    alt="Power BI" 
+    title="Power BI para Business Intelligence"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
 />
 <img 
     align="left" 
-    alt="Azure"
-    title="Azure" 
+    alt="FastAPI"
+    title="APIs rápidas com FastAPI" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure para Deploy e Escalabilidade"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
 />
 <img 
     align="left" 
+    alt="LangChain"
+    title="Frameworks de IA como LangChain" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/favicon.ico"
+/>
+<img 
+    align="left" 
     alt="Docker" 
-    title="Docker"
+    title="Contêineres com Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
@@ -82,18 +93,10 @@ Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e i
 <img 
     align="left" 
     alt="Git" 
-    title="Git"
+    title="Versionamento com Git" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="LangChain" 
-    title="LangChain" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/favicon.ico" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <br/>
 <br/>
@@ -113,7 +116,9 @@ Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e i
   />
 </picture>
 
-### 📊 Estatísticas
+---
+
+### 📊 Estatísticas GitHub
 
 <p>
   <img 
@@ -128,6 +133,6 @@ Me chamo Thiago Moraes, tenho 23 anos e sou apaixonado por tecnologia, dados e i
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolsmoraes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolsmoraes&theme=tokyonight&layout=compact&custom_title=Tecnologias+Usadas&langs_count=9" 
   />
 </p>
