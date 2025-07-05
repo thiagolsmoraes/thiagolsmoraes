@@ -21,13 +21,6 @@ Atualmente, concentro minha atuação no desenvolvimento de soluções baseadas 
             src="https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-000?style=for-the-badge&logo=web&logoColor=white"
         />
     </a>
-    <a href="https://github.com/thiagolsmoraes">
-        <img 
-            alt="GitHub" 
-            title="Meus projetos no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
