@@ -100,17 +100,6 @@ mindmap
       Strategic Insights
 ```
 
-### 📈 Estatísticas GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagolsmoraes&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolsmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolsmoraes&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-
-</div>
-
 ### 🚀 Projetos em Destaque
 
 - 🤖 **Chatbots Inteligentes** - Soluções de atendimento automatizado com IA
